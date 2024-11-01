@@ -7,7 +7,7 @@
 
 ![Three dogs looking up](https://github.com/user-attachments/assets/1ed2f57c-4f22-4d20-8027-ce9f9d026362)
 
-```
+``` python
 print("Hello, World!")
 name = input("Enter your name: ")
 print(f"It's nice having you here {name}.")
